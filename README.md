@@ -1,3 +1,4 @@
 # public-repo-no-hyperscan-test-secrets
 
 duchess_custom_pattern_111
+secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_pb001
